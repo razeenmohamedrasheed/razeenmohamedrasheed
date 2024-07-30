@@ -1,10 +1,10 @@
 <!-- Header Section -->
-<h1 align="center">Hello, I'm Liju Samuel! 👋</h1>
+<h1 align="center">Hello, I'm Razeen Mohamed Rasheed! 👋</h1>
 <h3 align="center">Experienced Software Engineer | Full Stack Developer</h3>
  
 <!-- Contact Information -->
 <p align="center">
-  📫 How to reach me: <a href="mailto:liju13samuel@gmail.com">liju13samuel@gmail.com</a>
+  📫 How to reach me: <a href="mailto:razeenrasheed83@gmail.com">razeenrasheed83@gmail.com</a>
 </p>
  
 <!-- Skills Section -->
@@ -26,15 +26,13 @@
  
 <!-- About Me and Interests Section -->
 ## About Me
-I am a dedicated software engineer with over 2 years of professional experience. My journey in the tech world involves crafting robust and innovative full-stack applications.
+I am a dedicated software engineer with over 3 years of professional experience. My journey in the tech world involves crafting robust and innovative full-stack applications.
  
 ## Interests
 I have a keen interest in exploring cutting-edge technologies such as blockchain, AI, and machine learning. My passion lies in creating solutions that leverage these technologies to make a positive impact.
  
 <!-- Projects Section (Add your projects and descriptions) -->
-## Projects
-- **Project 1:** MutliLanguage Invoice Extractor using Gemini Pro API.
-- **Project 2:** JavaScript GPT , Application that image as a input including plain javascript , Angular(Ng) React and other javascript code and explain in more precise manner .
+
 <!-- Add more projects as needed -->
  
 <!-- Conclusion and Call to Action -->
