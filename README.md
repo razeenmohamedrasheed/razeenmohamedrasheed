@@ -13,15 +13,15 @@
  
 <!-- GitHub Stats Section -->
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lijuSam&show_icons=true&locale=en&layout=compact" alt="lijuSam" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razeenrasheed83&show_icons=true&locale=en&layout=compact" alt="razeenrasheed" />
 </p>
  
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lijuSam&show_icons=true&locale=en" alt="lijuSam" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=razeenrasheed83&show_icons=true&locale=en" alt="razeenrasheed" />
 </p>
  
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lijuSam&" alt="lijuSam" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razeenrasheed83&" alt="razeenrasheed" />
 </p>
  
 <!-- About Me and Interests Section -->
