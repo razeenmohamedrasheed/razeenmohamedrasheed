@@ -29,7 +29,7 @@
 I am a dedicated software engineer with over 3 years of professional experience. My journey in the tech world involves crafting robust and innovative full-stack applications.
  
 ## Interests
-I have a keen interest in exploring cutting-edge technologies such as blockchain, AI, and machine learning. My passion lies in creating solutions that leverage these technologies to make a positive impact.
+I am passionate about developing innovative front-end and back-end solutions, constantly exploring new technologies to create impactful and efficient applications.
  
 <!-- Projects Section (Add your projects and descriptions) -->
 
