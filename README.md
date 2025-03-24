@@ -1,6 +1,6 @@
 <!-- Header Section --> 
 <h1 align="center">Hello, I'm Razeen Mohamed Rasheed! 👋</h1>
-<h3 align="center"> Software Dev | Experienced Full Stack Developer</h3>
+<h3 align="center"> Software Developer | Experienced Full Stack Developer</h3>
  
 <!-- Contact Information -->
 <p align="center">
